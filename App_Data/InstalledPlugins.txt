@@ -1,0 +1,6 @@
+CurrencyExchange.ECB
+Payments.Manual
+Pickup.PickupInStore
+Shipping.FixedOrByWeight
+Tax.FixedOrByCountryStateZip
+Widgets.NivoSlider
